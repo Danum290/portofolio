@@ -1,0 +1,9 @@
+{
+  "priority": 4,
+  "title": "FTGO Backend - Microservices",
+  "shortDescription": "Implementation of Saga Pattern in a backend application using Spring Boot, Kafka, and microservices architecture to handle distributed transactions.",
+  "cover": "https://static.vecteezy.com/system/resources/previews/053/646/086/large_2x/microservices-icon-solid-icon-style-icon-related-to-it-it-architecture-elements-illustration-vector.jpg",
+  "livePreview": "https://github.com/",
+  "type": "Architecture 🏗️",
+  "siteAge": "2024"
+}

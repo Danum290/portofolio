@@ -1,0 +1,9 @@
+{
+  "priority": 7,
+  "title": "IoT Attendance System",
+  "shortDescription": "Internal web-based attendance system with Raspberry Pi integration for automated check-in/out and employee management.",
+  "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop",
+  "livePreview": "#",
+  "type": "IoT 🤖",
+  "siteAge": "2024"
+}

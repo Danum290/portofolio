@@ -1,0 +1,9 @@
+{
+  "priority": 6,
+  "title": "HRIS Backend System",
+  "shortDescription": "Developed a comprehensive HRIS backend system using Laravel and PostgreSQL, featuring RBAC, complex database design, and API integrations.",
+  "cover": "https://media.istockphoto.com/id/1373233627/vector/human-resources-information-system-hris-isometric-3d.jpg?s=612x612&w=0&k=20&c=PM4o39M2b7jD2dcBufAerrhYIvrMEqAb0jPeZlaJ1mY=",
+  "livePreview": "#",
+  "type": "Internal Tool 🛠️",
+  "siteAge": "2024"
+}

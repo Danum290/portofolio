@@ -1,0 +1,9 @@
+{
+  "priority": 8,
+  "title": "Twitter Sentiment Analysis",
+  "shortDescription": "Application for Twitter engagement and sentiment analysis built with Flask and Natural Language Processing techniques.",
+  "cover": "https://images.unsplash.com/photo-1611605698335-8b1569810432?q=80&w=2070&auto=format&fit=crop",
+  "livePreview": "#",
+  "type": "AI/NLP 🧠",
+  "siteAge": "2023"
+}

@@ -1,0 +1,9 @@
+{
+  "priority": 1,
+  "title": "Integrated Ticketing System - PT ASDP Ferry Indonesia",
+  "shortDescription": "Developing enterprise-level integrated ticketing system with a focus on system reliability, scalability, and service integration using Java Spring Boot and microservices.",
+  "cover": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2070&auto=format&fit=crop",
+  "livePreview": "https://www.indonesiaferry.co.id/",
+  "type": "Enterprise 🚢",
+  "siteAge": "Current"
+}
