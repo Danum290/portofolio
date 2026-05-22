@@ -14,7 +14,7 @@ const Skills: React.FC<SkillsProps> = ({ skills }) => {
     <MarqueeWrapper className="from-primary to-primary via-marquee bg-linear-to-r">
       <div className="flex gap-8 lg:gap-24">
         {skills.map(({ name, iconName }, index) => {
-          const Icon = (Icons as any)[iconName]
+          const Icon = (Icons as Record<string, unknown>)[iconName]
           const isComponent = typeof Icon === 'function'
 
           return (

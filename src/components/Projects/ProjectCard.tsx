@@ -1,13 +1,5 @@
 import { Project } from '@/lib/types'
 import Image from 'next/image'
-import { Earning, GithubIcon, Likes, PreviewIcon, Star, Timer } from '../../utils/icons'
-
-const IconText: React.FC<{ icon: string; text: string }> = ({ icon, text }) => (
-  <li className="flex gap-2">
-    <Image src={icon} alt={text} className="size-[18px] md:size-5" />
-    <span className="text-neutral text-sm">{text}</span>
-  </li>
-)
 
 interface ProjectCardProps {
   data: Project
@@ -17,14 +9,6 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ data }) => {
   const {
     title,
     shortDescription,
-    visitors,
-    earned,
-    ratings,
-    githubStars,
-    numberOfSales,
-    livePreview,
-    githubLink,
-    siteAge,
     type,
     cover,
   } = data

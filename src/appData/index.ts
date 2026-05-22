@@ -1,22 +1,6 @@
 // Data for portfolio
-import {
-  DockerIcon,
-  ExpressjsIcon,
-  GitIcon,
-  JavaIcon,
-  JavaScriptIcon,
-  KafkaIcon,
-  KubernetesIcon,
-  LaravelIcon,
-  Neo4jIcon,
-  NodejsIcon,
-  PythonIcon,
-  RedisIcon,
-  SocketIcon,
-  SpringBootIcon,
-  TailwindCSS,
-  TypescriptIcon,
-} from '../utils/icons'
+// Icon imports are not needed if they are not used in this file directly
+// or if they are handled via iconName string lookup in components
 
 // Project Data
 export const projects = [

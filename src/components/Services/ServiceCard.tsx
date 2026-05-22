@@ -8,7 +8,7 @@ interface ServiceCardTypes {
 }
 
 const ServiceCard: React.FC<ServiceCardTypes> = ({ title, shortDescription, iconName }) => {
-  const Icon = (Icons as any)[iconName]
+  const Icon = (Icons as Record<string, unknown>)[iconName]
   const isComponent = typeof Icon === 'function'
 
   return (
